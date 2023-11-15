@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/DipokalLab/electron-typescript#readme",
   "devDependencies": {
-    "electron": "^22.0.0",
+    "electron": "^22.3.27",
     "typescript": "^4.9.4"
   },
   "dependencies": {
